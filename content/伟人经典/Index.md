@@ -1,11 +1,11 @@
 ---
 longform:
   format: scenes
-  title: Yunlin_CCU
+  title: 伟人经典
   workflow: Default Workflow
   sceneFolder: /
   scenes:
-    - 序言
-  sceneTemplate: template/Chapter.md
+    - 第一章 毛选
+    - 第二章 邓选
   ignoredFiles: []
 ---
